@@ -1,6 +1,6 @@
 import java.util.*;
 import java.util.HashMap;
-class DS{
+class Main{
     static Scanner sc = new Scanner(System.in);
     public static void main(String[] args){
         HashMap<String, ArrayList<String>> dish = new HashMap<String, ArrayList<String>>();
